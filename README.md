@@ -134,4 +134,4 @@ Prediction: Black_Footed_Albatross
 
 ## Author
 
-**R G**
+**Rigzin Gyalpo**
